@@ -3,6 +3,7 @@
 - 😄 My name is: Athipisut Joomwong
 - ⚡ Student id: 63367292
 - 🔭 I'm currently studying on Faculty of Engineering.
+- 👨‍💻 Interesting career in the future : Game Master, Streamer
 
 ## Developer Tech
 
@@ -24,6 +25,9 @@
 
 ### Languages 
 <p align="left">
+<a href="#">
+    <img src="svg/dev/languages/C.svg" alt="C" style="vertical-align:top; margin:6px 4px">
+  </a> 
 <a href="#">
     <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
   </a> 
