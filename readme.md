@@ -4,6 +4,7 @@
 - ⚡ Student id: 63367292
 - 🔭 I'm currently studying on Faculty of Engineering.
 - 👨‍💻 Interesting career in the future : Game Master, Streamer
+- 👨‍🎓 Talent : Calculation
 
 ## Developer Tech
 
